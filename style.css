@@ -79,8 +79,6 @@ body {
 }
 
 .statusbuttons * {
-  /* width: 12%; */
-  height: 25px;
   background-color: rgba(255, 204, 0, 0.582);
   border: none;
   border-radius: 5px;
